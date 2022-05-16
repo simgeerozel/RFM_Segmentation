@@ -1,4 +1,4 @@
-# RFM_Segmentation
+# RFM_Analysis
 
 Within the scope of the study, we will segment the customers of FLO, an online shoe store,
 and determine their marketing strategies. Our dataset contains 19945 rows and 12 variables.
